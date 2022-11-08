@@ -1,0 +1,333 @@
+{
+
+    "data" : [
+          {
+              "id" : 1,
+              "imgage" : "https://files.myglamm.com/site-images/800x800/Tile1_1.jpg",
+              "product" : "Manish Malhotra Precision Eyebrow Definer - Brown - Makeup",
+              "title" : "1.5mm Slim Tip Eyebrow Definer With Shea Butter",
+              "shade" : "1 SHADE",
+              "price" : "₹1,095"
+          },
+          {
+              "id" : 2,
+              "image" : "https://files.myglamm.com/site-images/800x800/NIVR1.jpg",
+              "product" : "Manish Malhotra Skin Awaking Foundation - Makeup",
+              "title" : "Antioxidant-Rich,Soft-Focus Foundation",
+              "shade" : "14 SHADES",
+              "price" : "₹999"
+          },
+          {
+              "id" : 3,
+              "image" : "https://files.myglamm.com/site-images/800x800/BLUEBRTHDY-(1).jpg",
+              "product" :"MyGlamm LIT Glossy Liquid Eyeliner - Makeup",
+              "title" : "Up To 24HR Smudge-Proof Coloured Eyeliner ",
+              "shade" : "4 SHADES",
+              "price" : "₹244"
+          },
+          {
+              "id" : 4,
+              "image" : "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_5.jpg",
+              "product" :"POPxo 12 Eyeshadow Kit - Makeup",
+              "title" : "Eyeshadow palette with 6 matte and 6 shimmer shades",
+              "shade" : "2 SHADES",
+              "price" : "₹315"
+          },
+          {
+              "id" : 5,
+              "image" : "https://files.myglamm.com/site-images/800x800/RSEAD-(1).jpg",
+              "product" :"LIT - pH Lip Balm - Makeup",
+              "title" : "Creamy, Hydrating Formula with a Liminous Effect",
+              "shade" : "5 SHADES",
+              "price" : "₹259"
+          },
+          {
+              "id" : 6,
+              "image" : "https://files.myglamm.com/site-images/800x800/Yummy-(1).jpg",
+              "product" :"LIT Velvet Matte Liquid Lipstick Makeup",
+              "title" : "Hydrating, Velvet Matte Liquid",
+              "shade" : "11 SHADES",
+              "price" : "₹297"
+          },
+          {
+              "id" : 7,
+              "image" : "https://files.myglamm.com/site-images/800x800/RSML-(1).jpg",
+              "product" :"LIT Creamy Matte Lipstick - Makeup",
+              "title" : "Precision Perfect Matte Slimstick",
+              "shade" : "17 SHADES",
+              "price" : "₹471"
+          },
+          {
+              "id" : 8,
+              "image" : "https://files.myglamm.com/site-images/800x800/Open-Product-with-side-bar_1.jpg",
+              "product" :"POPxo Makeup - Mini Lip Kit",
+              "title" : "Mini Lipstick kit with 3 creamy",
+              "shade" : "5 SHADES",
+              "price" : "₹262"
+          },
+          {
+              "id" : 9,
+              "image" : "https://files.myglamm.com/site-images/800x800/Dreami_1.jpg",
+              "product" :"POPxo Makeup - Nail Polish",
+              "title" : "Mini Nail Polish with 5 chip",
+              "shade" : "7 SHADES",
+              "price" : "₹199"
+          },
+          {
+              "id" : 10,
+              "image" : "https://files.myglamm.com/site-images/800x800/EBY-(1).jpg",
+              "product" :"LIT Liquid Matte Lipstick - Makeup",
+              "title" : "Moringa Oil Enriched Matte",
+              "shade" : "100 SHADES",
+              "price" : "₹395"
+          },
+          {
+              "id" : 11,
+              "image" : "https://files.myglamm.com/site-images/800x800/Melon-Squeeze-(1).jpg",
+              "product" :"K.Play Flavoured Lipstick - Makeup",
+              "title" : "Melon Flavoured Vitamin E",
+              "shade" : "12 SHADES",
+              "price" : "₹382"
+          },
+          {
+              "id" : 12,
+              "image" : "https://files.myglamm.com/site-images/800x800/WarmSand-(1).jpg",
+              "product" :"POSE HD Foundation Stick",
+              "title" : "Nourishing,Matte,Skin",
+              "shade" : "9 SHADES",
+              "price" : "₹419"
+          },
+          {
+              "id" : 13,
+              "image" : "https://files.myglamm.com/site-images/800x800/GossipGrl-(1).jpg",
+              "product" :"LIT Satin Matte Lipstick - Makeup",
+              "title" : "Hi-Wattage 3D Satin Matte",
+              "shade" : "20 SHADES",
+              "price" : "₹297"
+          },
+          {
+              "id" : 14,
+              "image" : "https://files.myglamm.com/site-images/800x800/RMR1_1.jpg",
+              "product" :"Manish Malhotra Liquid Matte",
+              "title" : "Long-stay Velvet Matte Lip Colour",
+              "shade" : "19 SHADES",
+              "price" : "₹796"
+          },
+          {
+              "id" : 15,
+              "image" : "https://files.myglamm.com/site-images/800x800/Twstr-(1).jpg",
+              "product" :"Twist It Mascara - Makeup",
+              "title" : "Volumising and Curling Mascara",
+              "shade" : "12 SHADES",
+              "price" : "₹452"
+          },
+          {
+              "id" : 16,
+              "image" : "https://files.myglamm.com/site-images/800x800/Party-parade-(1).jpg",
+              "product" :"Two of Your KInd - Makeup",
+              "title" : "Long-Lasting Gel Finish Nail",
+              "shade" : "17 SHADES",
+              "price" : "₹222"
+          },
+          {
+              "id" : 17,
+              "image" : "https://files.myglamm.com/site-images/800x800/open-product-side-bar.jpg",
+              "product" :"POPxo Makeup Face Kit - Makeup",
+              "title" : "3-in-1 blush,setting powder",
+              "shade" : "10 SHADES",
+              "price" : "₹300"
+          },
+          {
+              "id" : 18,
+              "image" : "https://files.myglamm.com/site-images/800x800/Hghd-(1).jpg",
+              "product" :"POSE HD Highlighter Duo",
+              "title" : "HD Ultra Shimmer",
+              "shade" : "8 SHADES",
+              "price" : "₹40"
+          },
+          {
+              "id" : 19,
+              "image" : "https://files.myglamm.com/site-images/800x800/Soft-Matte-post-1-Violet-Dream.jpg",
+              "product" :"Manish Malhotra Soft Matte Lipstick",
+              "title" : "Hydrating Long-wear Lipstick",
+              "shade" : "17 SHADES",
+              "price" : "₹665"
+          },
+          {
+              "id" : 20,
+              "image" : "https://files.myglamm.com/site-images/800x800/Banan-(1).jpg",
+              "product" :"POSE HD Banana Powder - Makeup",
+              "title" : "HD Yellow Setting Powder",
+              "shade" : "7 SHADES",
+              "price" : "₹490"
+          },
+          {
+              "id" : 21,
+              "image" : "https://files.myglamm.com/site-images/800x800/LIt-NPR-01.jpg",
+              "product" :"LIT - Nail Enamel Remover 30ML",
+              "title" : "Acetone-free Nail Enamel Remover",
+              "shade" : "4 SHADES",
+              "price" : "₹89"
+          },
+          {
+              "id" : 22,
+              "image" : "https://files.myglamm.com/site-images/800x800/FLCMP-(1).jpg",
+              "product" :"K.Play Flavoured Compact - Makeup",
+              "title" : "Vanilla Flavoured Skin Perfecting",
+              "shade" : "6 SHADES",
+              "price" : "₹452"
+          },
+          {
+              "id" : 23,
+              "image" : "https://files.myglamm.com/site-images/800x800/1-33.jpg",
+              "product" :"Manish Malhotra Luminous",
+              "title" : "Oil-free Illuminating",
+              "shade" : "2 SHADES",
+              "price" : "₹700"
+          },
+          {
+              "id" : 24,
+              "image" : "https://files.myglamm.com/site-images/800x800/Honey-(1).jpg",
+              "product" :"Total Makeover FF Cream - Makeup",
+              "title" : "5 in 1 Primer-Concealer",
+              "shade" : "4 SHADES",
+              "price" : "₹725"
+          },
+          {
+              "id" : 25,
+              "image" : "https://files.myglamm.com/site-images/800x800/BRLG-(1).jpg",
+              "product" :"K.Play Falvoured Lipgloss - Makeup ",
+              "title" : "Berry Falvoured Vitamin E",
+              "shade" : "11 SHADES",
+              "price" : "₹595"
+          },
+          {
+              "id" : 26,
+              "image" : "https://files.myglamm.com/site-images/800x800/open-product-with-side-bar_4.jpg",
+              "product" :"POPX Makeup - Eyeshadow Kit",
+              "title" : "Eyeshadow palette with 2",
+              "shade" : "2 SHADES",
+              "price" : "₹225"
+          },
+          {
+              "id" : 27,
+              "image" : "https://files.myglamm.com/site-images/800x800/OLR1.jpg",
+              "product" :"Manish Malhotra Hi-Shine Lipstick",
+              "title" : "Lightweight,Long-wear",
+              "shade" : "24 SHADES",
+              "price" : "₹665"
+          },
+          {
+              "id" : 28,
+              "image" : "https://files.myglamm.com/site-images/800x800/Savag-(1).jpg",
+              "product" :"LIT Matte Eyeliner Pencil - Makaeup",
+              "title" : "Precision Eyeliner with",
+              "shade" : "7 SHADES",
+              "price" : "₹312"
+          },
+          {
+              "id" : 29,
+              "image" : "https://files.myglamm.com/site-images/800x800/LP1_4.png",
+              "product" :"POPxo First Kiss Lip Balm SPF 15",
+              "title" : "Lip balm For sun Lovers",
+              "shade" : "11 SHADES",
+              "price" : "₹129"
+          },
+          {
+              "id" : 30,
+              "image" : "https://files.myglamm.com/site-images/800x800/BRDF-(1)_1.jpg",
+              "product" :"LIT Brow Definer Pencil - Makeup",
+              "title" : "Define & Scuplt Browliner",
+              "shade" : "8 SHADES",
+              "price" : "₹347"
+          },
+          {
+              "id" : 31,
+              "image" : "https://files.myglamm.com/site-images/800x800/Open-product-with-side-bar_1.jpg",
+              "product" :"POPxo Makeup Face & Eye Kit",
+              "title" : "4-in 1 blush,highlighter",
+              "shade" : "1 SHADES",
+              "price" : "₹298"
+          },
+          {
+              "id" : 32,
+              "image" : "https://files.myglamm.com/site-images/800x800/RRD-(1).jpg",
+              "product" :"MyGlamm Pure Love Sindoor",
+              "title" : "Liquid Matte Sindoor",
+              "shade" : "1 SHADES",
+              "price" : "₹175"
+          },
+          {
+              "id" : 33,
+              "image" : "https://files.myglamm.com/site-images/800x800/Pucker1.jpg",
+              "product" :"POPxo Makeup Lip Balm Lit - Pucker",
+              "title" : "Blow some berrylicious",
+              "shade" : "1 SHADES",
+              "price" : "₹299"
+          },
+          {
+              "id" : 34,
+              "image" : "https://files.myglamm.com/site-images/800x800/PseStngPwd-(1).jpg",
+              "product" :"POSE HD Setting Powder - Makeup",
+              "title" : "HD Translucent Pressed setting",
+              "shade" : "3 SHADES",
+              "price" : "₹487"
+          },
+          {
+              "id" : 35,
+              "image" : "https://files.myglamm.com/site-images/800x800/GGM-(1).jpg",
+              "product" :"Glow to Glamour - Makeup",
+              "title" : "2 in q Shinner and Fixing",
+              "shade" : "3 SHADES",
+              "price" : "₹658"
+          },
+          {
+              "id" : 36,
+              "image" : "https://files.myglamm.com/site-images/800x800/OGG1.jpg",
+              "product" :"POPxo Makeup Liquid Lipstick Kit",
+              "title" : "3-in-1 Liquid Lipstick Kits",
+              "shade" : "2 SHADES",
+              "price" : "₹499"
+          },
+          {
+              "id" : 37,
+              "image" : "https://files.myglamm.com/site-images/800x800/Black-Diamond.png",
+              "product" :"Manish Malhotra Precision Liquid",
+              "title" : "Intense Longwear Liquid",
+              "shade" : "3 SHADES",
+              "price" : "₹895"
+          },
+          {
+              "id" : 38,
+              "image" : "https://files.myglamm.com/site-images/800x800/Vacaa-(1)_1.jpg",
+              "product" :"POPxo Makeup - Mini Nail Kit",
+              "title" : "POPxo Makeup - Vacay Mini Nail",
+              "shade" : "1 SHADES",
+              "price" : "₹225"
+          },
+          {
+              "id" : 39,
+              "image" : "https://files.myglamm.com/site-images/800x800/Tile-1-Lip-Gloss.jpg",
+              "product" :"Manish Malhotra Gold Flake Lip",
+              "title" : "Ultra-glamorous lip gloss for",
+              "shade" : "10 SHADES",
+              "price" : "₹1,250"
+          },
+          {
+              "id" : 40,
+              "image" : "https://files.myglamm.com/site-images/800x800/TRS1.jpg",
+              "product" :"Tinted Perfection - Makeup",
+              "title" : "Base Primer & Pore Minimister",
+              "shade" : "1 SHADES",
+              "price" : "₹657"
+          },
+          {
+            "id" : 41,
+            "image" : "https://files.myglamm.com/site-images/800x800/Frozen-(1).jpg",
+            "product" :"K.Play Flavoured Blush - Makeup",
+            "title" : "Raspberry Flavoured Matte",
+            "shade" : "2 SHADES",
+            "price" : "₹387"
+        }
+    ]
+  }
