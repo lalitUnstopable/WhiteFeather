@@ -1,0 +1,30 @@
+Create a new repo
+clone repo to localsystem
+create db.json and add data into it
+cd into repo
+npm init -y
+create index.js
+package.json = write into depedencies "start":"node index.js"
+following data add into index.js ==>
+const jsonServer = require('json-server');
+const server = jsonServer.create();
+const router = jsonServer.router('db.json'); // <== Will be created later
+const middlewares = jsonServer.defaults();
+const port = process.env.PORT || 3200; // <== You can change the port
+
+server.use(middlewares);
+server.use(router);
+
+server.listen(port);
+
+npm i json-server
+git add .
+ git commit -m "Complete1"
+ git push origin master or main
+open dashboard.heroku.com
+click on new app and give name to app 
+run command heroku login
+ git init
+git add .
+git push heroku master or main
+click on open into top side 
