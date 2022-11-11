@@ -7,7 +7,7 @@
               "product" : "Manish Malhotra Precision Eyebrow Definer",
               "title" : "1.5mm Slim Tip Eyebrow Definer With Shea Butter",
               "shade" : "1 SHADE",
-              "price" : "₹1,095"
+              "price" : 799
           },
           {
               "id" : 2,
@@ -15,7 +15,7 @@
               "product" : "Manish Malhotra Skin Awaking Foundation - Makeup",
               "title" : "Antioxidant-Rich,Soft-Focus Foundation",
               "shade" : "14 SHADES",
-              "price" : "₹999"
+              "price" : 999
           },
           {
               "id" : 3,
@@ -23,7 +23,7 @@
               "product" :"MyGlamm LIT Glossy Liquid Eyeliner - Makeup",
               "title" : "Up To 24HR Smudge-Proof Coloured Eyeliner ",
               "shade" : "4 SHADES",
-              "price" : "₹244"
+              "price" : 244
           },
           {
               "id" : 4,
@@ -31,7 +31,7 @@
               "product" :"POPxo 12 Eyeshadow Kit - Makeup",
               "title" : "Eyeshadow palette with 6 matte and 6 shimmer shades",
               "shade" : "2 SHADES",
-              "price" : "₹315"
+              "price" : 315
           },
           {
               "id" : 5,
@@ -39,7 +39,7 @@
               "product" :"LIT - pH Lip Balm - Makeup",
               "title" : "Creamy, Hydrating Formula with a Liminous Effect",
               "shade" : "5 SHADES",
-              "price" : "₹259"
+              "price" : 259
           },
           {
               "id" : 6,
@@ -47,7 +47,7 @@
               "product" :"LIT Velvet Matte Liquid Lipstick Makeup",
               "title" : "Hydrating, Velvet Matte Liquid",
               "shade" : "11 SHADES",
-              "price" : "₹297"
+              "price" : 297
           },
           {
               "id" : 7,
@@ -55,7 +55,7 @@
               "product" :"LIT Creamy Matte Lipstick - Makeup",
               "title" : "Precision Perfect Matte Slimstick",
               "shade" : "17 SHADES",
-              "price" : "₹471"
+              "price" : 471
           },
           {
               "id" : 8,
@@ -63,7 +63,7 @@
               "product" :"POPxo Makeup - Mini Lip Kit",
               "title" : "Mini Lipstick kit with 3 creamy",
               "shade" : "5 SHADES",
-              "price" : "₹262"
+              "price" : 262
           },
           {
               "id" : 9,
@@ -71,7 +71,7 @@
               "product" :"POPxo Makeup - Nail Polish",
               "title" : "Mini Nail Polish with 5 chip",
               "shade" : "7 SHADES",
-              "price" : "₹199"
+              "price" : 199
           },
           {
               "id" : 10,
@@ -79,7 +79,7 @@
               "product" :"LIT Liquid Matte Lipstick - Makeup",
               "title" : "Moringa Oil Enriched Matte",
               "shade" : "100 SHADES",
-              "price" : "₹395"
+              "price" : 395
           },
           {
               "id" : 11,
@@ -87,7 +87,7 @@
               "product" :"K.Play Flavoured Lipstick - Makeup",
               "title" : "Melon Flavoured Vitamin E",
               "shade" : "12 SHADES",
-              "price" : "₹382"
+              "price" : 382
           },
           {
               "id" : 12,
@@ -95,7 +95,7 @@
               "product" :"POSE HD Foundation Stick",
               "title" : "Nourishing,Matte,Skin",
               "shade" : "9 SHADES",
-              "price" : "₹419"
+              "price" : 419
           },
           {
               "id" : 13,
@@ -103,7 +103,7 @@
               "product" :"LIT Satin Matte Lipstick - Makeup",
               "title" : "Hi-Wattage 3D Satin Matte",
               "shade" : "20 SHADES",
-              "price" : "₹297"
+              "price" : 297
           },
           {
               "id" : 14,
@@ -111,7 +111,7 @@
               "product" :"Manish Malhotra Liquid Matte",
               "title" : "Long-stay Velvet Matte Lip Colour",
               "shade" : "19 SHADES",
-              "price" : "₹796"
+              "price" : 796
           },
           {
               "id" : 15,
@@ -119,7 +119,7 @@
               "product" :"Twist It Mascara - Makeup",
               "title" : "Volumising and Curling Mascara",
               "shade" : "12 SHADES",
-              "price" : "₹452"
+              "price" : 452
           },
           {
               "id" : 16,
@@ -127,7 +127,7 @@
               "product" :"Two of Your KInd - Makeup",
               "title" : "Long-Lasting Gel Finish Nail",
               "shade" : "17 SHADES",
-              "price" : "₹222"
+              "price" : 222
           },
           {
               "id" : 17,
@@ -135,7 +135,7 @@
               "product" :"POPxo Makeup Face Kit - Makeup",
               "title" : "3-in-1 blush,setting powder",
               "shade" : "10 SHADES",
-              "price" : "₹300"
+              "price" : 300
           },
           {
               "id" : 18,
@@ -143,7 +143,7 @@
               "product" :"POSE HD Highlighter Duo",
               "title" : "HD Ultra Shimmer",
               "shade" : "8 SHADES",
-              "price" : "₹40"
+              "price" : 40
           },
           {
               "id" : 19,
@@ -151,7 +151,7 @@
               "product" :"Manish Malhotra Soft Matte Lipstick",
               "title" : "Hydrating Long-wear Lipstick",
               "shade" : "17 SHADES",
-              "price" : "₹665"
+              "price" : 665
           },
           {
               "id" : 20,
@@ -159,7 +159,7 @@
               "product" :"POSE HD Banana Powder - Makeup",
               "title" : "HD Yellow Setting Powder",
               "shade" : "7 SHADES",
-              "price" : "₹490"
+              "price" : 490
           },
           {
               "id" : 21,
@@ -167,7 +167,7 @@
               "product" :"LIT - Nail Enamel Remover 30ML",
               "title" : "Acetone-free Nail Enamel Remover",
               "shade" : "4 SHADES",
-              "price" : "₹89"
+              "price" : 89
           },
           {
               "id" : 22,
@@ -175,7 +175,7 @@
               "product" :"K.Play Flavoured Compact - Makeup",
               "title" : "Vanilla Flavoured Skin Perfecting",
               "shade" : "6 SHADES",
-              "price" : "₹452"
+              "price" : 452
           },
           {
               "id" : 23,
@@ -183,7 +183,7 @@
               "product" :"Manish Malhotra Luminous",
               "title" : "Oil-free Illuminating",
               "shade" : "2 SHADES",
-              "price" : "₹700"
+              "price" : 700
           },
           {
               "id" : 24,
@@ -191,7 +191,7 @@
               "product" :"Total Makeover FF Cream - Makeup",
               "title" : "5 in 1 Primer-Concealer",
               "shade" : "4 SHADES",
-              "price" : "₹725"
+              "price" : 725
           },
           {
               "id" : 25,
@@ -199,7 +199,7 @@
               "product" :"K.Play Falvoured Lipgloss - Makeup ",
               "title" : "Berry Falvoured Vitamin E",
               "shade" : "11 SHADES",
-              "price" : "₹595"
+              "price" : 595
           },
           {
               "id" : 26,
@@ -207,7 +207,7 @@
               "product" :"POPX Makeup - Eyeshadow Kit",
               "title" : "Eyeshadow palette with 2",
               "shade" : "2 SHADES",
-              "price" : "₹225"
+              "price" : 225
           },
           {
               "id" : 27,
@@ -215,7 +215,7 @@
               "product" :"Manish Malhotra Hi-Shine Lipstick",
               "title" : "Lightweight,Long-wear",
               "shade" : "24 SHADES",
-              "price" : "₹665"
+              "price" : 665
           },
           {
               "id" : 28,
@@ -223,7 +223,7 @@
               "product" :"LIT Matte Eyeliner Pencil - Makaeup",
               "title" : "Precision Eyeliner with",
               "shade" : "7 SHADES",
-              "price" : "₹312"
+              "price" : 312
           },
           {
               "id" : 29,
@@ -231,7 +231,7 @@
               "product" :"POPxo First Kiss Lip Balm SPF 15",
               "title" : "Lip balm For sun Lovers",
               "shade" : "11 SHADES",
-              "price" : "₹129"
+              "price" : 129
           },
           {
               "id" : 30,
@@ -239,7 +239,7 @@
               "product" :"LIT Brow Definer Pencil - Makeup",
               "title" : "Define & Scuplt Browliner",
               "shade" : "8 SHADES",
-              "price" : "₹347"
+              "price" : 347
           },
           {
               "id" : 31,
@@ -247,7 +247,7 @@
               "product" :"POPxo Makeup Face & Eye Kit",
               "title" : "4-in 1 blush,highlighter",
               "shade" : "1 SHADES",
-              "price" : "₹298"
+              "price" : 298
           },
           {
               "id" : 32,
@@ -255,7 +255,7 @@
               "product" :"MyGlamm Pure Love Sindoor",
               "title" : "Liquid Matte Sindoor",
               "shade" : "1 SHADES",
-              "price" : "₹175"
+              "price" : 175
           },
           {
               "id" : 33,
@@ -263,7 +263,7 @@
               "product" :"POPxo Makeup Lip Balm Lit - Pucker",
               "title" : "Blow some berrylicious",
               "shade" : "1 SHADES",
-              "price" : "₹299"
+              "price" : 299
           },
           {
               "id" : 34,
@@ -271,7 +271,7 @@
               "product" :"POSE HD Setting Powder - Makeup",
               "title" : "HD Translucent Pressed setting",
               "shade" : "3 SHADES",
-              "price" : "₹487"
+              "price" : 487
           },
           {
               "id" : 35,
@@ -279,7 +279,7 @@
               "product" :"Glow to Glamour - Makeup",
               "title" : "2 in q Shinner and Fixing",
               "shade" : "3 SHADES",
-              "price" : "₹658"
+              "price" : 658
           },
           {
               "id" : 36,
@@ -287,7 +287,7 @@
               "product" :"POPxo Makeup Liquid Lipstick Kit",
               "title" : "3-in-1 Liquid Lipstick Kits",
               "shade" : "2 SHADES",
-              "price" : "₹499"
+              "price" : 499
           },
           {
               "id" : 37,
@@ -295,7 +295,7 @@
               "product" :"Manish Malhotra Precision Liquid",
               "title" : "Intense Longwear Liquid",
               "shade" : "3 SHADES",
-              "price" : "₹895"
+              "price" : 895
           },
           {
               "id" : 38,
@@ -303,7 +303,7 @@
               "product" :"POPxo Makeup - Mini Nail Kit",
               "title" : "POPxo Makeup - Vacay Mini Nail",
               "shade" : "1 SHADES",
-              "price" : "₹225"
+              "price" : 225
           },
           {
               "id" : 39,
@@ -311,7 +311,7 @@
               "product" :"Manish Malhotra Gold Flake Lip",
               "title" : "Ultra-glamorous lip gloss for",
               "shade" : "10 SHADES",
-              "price" : "₹1,250"
+              "price" : 1250
           },
           {
               "id" : 40,
@@ -319,7 +319,7 @@
               "product" :"Tinted Perfection - Makeup",
               "title" : "Base Primer & Pore Minimister",
               "shade" : "1 SHADES",
-              "price" : "₹657"
+              "price" : 657
           },
           {
             "id" : 41,
@@ -327,7 +327,7 @@
             "product" :"K.Play Flavoured Blush - Makeup",
             "title" : "Raspberry Flavoured Matte",
             "shade" : "2 SHADES",
-            "price" : "₹387"
+            "price" : 387
         }
     ]
   }
