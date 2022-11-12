@@ -2,4 +2,4 @@
 
 Heroku Deployement
 
-https://localdatawhitefeather.herokuapp.com/data
+https://whitefeather2.herokuapp.com/data
