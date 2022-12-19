@@ -2,4 +2,4 @@
 
 Heroku Deployement
 
-https://whitefeather2.herokuapp.com/data
+https://mellifluous-froyo-0d1b1d.netlify.app/
