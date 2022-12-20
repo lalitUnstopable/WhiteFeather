@@ -1,5 +1,7 @@
 # WhiteFeather-API Deployement
 
-Heroku Deployement
+Render Deployement
+
+https://whitefeather.onrender.com/data
 
 
